@@ -5,17 +5,19 @@ ___________________________________
 ### MLP model 
 
 Training epochs: 13
+
 Test set accuracy: 0.69
 
 Parameters: 697,930
 
 ___________________________________
-## CNN model
+### CNN model
 
-## Training epochs: 13
-## Test set accuracy: 0.69
+Training epochs: 13
 
-## Parameters: 1,918
+Test set accuracy: 0.69
+
+Parameters: 1,918
 
 ___________________________________
 
