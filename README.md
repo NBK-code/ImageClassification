@@ -21,4 +21,4 @@ Parameters: 1,918
 
 ___________________________________
 
-For similar performance, the CNN model uses lesser parameters than the MLP model.
+For similar performance, the CNN model uses far lesser parameters than the MLP model.
