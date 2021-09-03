@@ -4,10 +4,10 @@ In this project we build two different image classification models for the SVHN 
 ___________________________________
 ### MLP model 
 
-## Training epochs: 13
-## Test set accuracy: 0.69
+Training epochs: 13
+Test set accuracy: 0.69
 
-## Parameters: 697,930
+Parameters: 697,930
 
 ___________________________________
 ## CNN model
